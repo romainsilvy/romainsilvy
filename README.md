@@ -48,6 +48,6 @@ Actually:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainsilvy&hide=pug,css,SCSS,Procfile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roomainsilvy)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romainsilvy)](https://github.com/anuraghazra/github-readme-stats)
 
 
