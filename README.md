@@ -48,6 +48,8 @@ Actually:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainsilvy&hide=pug,css,SCSS,Procfile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayatooo&show_icons=true&locale=en&layout=compact" alt="ayatooo" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romainsilvy&show_icons=true&locale=en" alt="romainsilvy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romainsilvy&" alt="romainsilvy" /></p>
