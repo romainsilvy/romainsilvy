@@ -8,7 +8,7 @@ Actually:
 
 - 🔭 I’m currently working as a backend developper for the app inprinte, an app offering a 3d printing service  ...
 - 🌱 I’m currently learning reactJS and symfony ...
-- 📫 How to reach me : 06-72-96-32-20, romain.silvy06@gmail.com, <a href="https://www.linkedin.com/in/romainsilvy"> linkedin</a>
+- 📫 How to reach me : romain.silvy06@gmail.com, <a href="https://www.linkedin.com/in/romainsilvy"> linkedin</a>
 
 
 
