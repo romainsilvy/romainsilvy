@@ -36,7 +36,7 @@ Actually:
 <img align="left" alt="go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:15px;" />
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
 <img align="left" alt="csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:15px;" />
-<img align="left" alt="symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" style="padding-right:15px;" />
+<img align="left" alt="symfony" width="30px" src="https://symfony.com/logos/symfony_black_03.svg" style="padding-right:15px;" />
 
 
 
