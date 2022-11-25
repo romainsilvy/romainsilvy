@@ -2,12 +2,11 @@
 
 ## Hi there 👋
 
-I'm Romain, a french FullStack developper based in Lyon. I'm currently looking for an intership and a work-study contract. I really enjoy learning new languages like JS and golang. 
+I'm Romain, a french FullStack developper based in Lyon. 
 
 Actually:
 
-- 🔭 I’m currently working as a backend developper for the app inprinte, an app offering a 3d printing service  ...
-- 🌱 I’m currently learning reactJS and symfony ...
+- 🔭 I’m currently working as a fullstack developper for the rubrash corp, a web agency ...
 - 📫 How to reach me : romain.silvy06@gmail.com, <a href="https://www.linkedin.com/in/romainsilvy"> linkedin</a>
 
 
